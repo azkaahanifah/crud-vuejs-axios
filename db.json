@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Microcontroller",
+      "content": "How to Build a Mini Project with Arduino"
+    },
+    {
+      "id": 2,
+      "title": "Artifical Intelligence",
+      "content": "What is Machine Learning?"
+    },
+    {
+      "id": 3,
+      "title": "SEO & Blog",
+      "content": "How to Get a Dollar from Google Adsense"
+    },
+    {
+      "id": 4,
+      "title": "Digital Marketing",
+      "content": "Shortcut to Get More Percentage Popularity"
+    }
+  ]
+}
